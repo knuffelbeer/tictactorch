@@ -1,4 +1,0 @@
-build/
-libtorch/
-game.cpp
-.gitignore
